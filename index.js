@@ -1,3 +1,3 @@
-function hello(){
+modele.hello = function(){
   return 'Hello World';
 }
