@@ -1,0 +1,19 @@
+{
+  "name": "plugin-test",
+  "version": "0.0.1",
+  "description": "test plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomayumax/plugin-test.git"
+  },
+  "author": "goma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gomayumax/plugin-test/issues"
+  },
+  "homepage": "https://github.com/gomayumax/plugin-test#readme"
+}
