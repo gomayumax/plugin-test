@@ -1,4 +1,6 @@
 
 module.exports = {
-  hello: 'Hello World',
+  hello: function(){
+         return 'Hello World'
+         },
 };
